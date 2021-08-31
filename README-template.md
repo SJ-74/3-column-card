@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/SJ-74/3-column-card
+- Live Site URL: https://angry-edison-fed6a5.netlify.app/
 
 ## My process
 
@@ -47,5 +47,5 @@ Honestly, I'd like to game up my CSS more and more for now.
 
 ## Author
 
-- Website - [SJ Vaani](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [SJ Vaani](https://www.linkedin.com/in/sjvaani74/)
+- Frontend Mentor - [@SJ-74](https://www.frontendmentor.io/profile/yourusername)
