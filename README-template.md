@@ -47,5 +47,5 @@ Honestly, I'd like to game up my CSS more and more for now.
 
 ## Author
 
-- Website - [SJ Vaani](https://www.linkedin.com/in/sjvaani74/)
-- Frontend Mentor - [@SJ-74](https://www.frontendmentor.io/profile/yourusername)
+- Website - [SJ](https://github.com/SJ-74)
+- Frontend Mentor - [@SJ-74](https://www.frontendmentor.io/profile/SJ-74)
