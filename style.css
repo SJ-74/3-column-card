@@ -8,29 +8,33 @@
 
 body{
   font-family: 'Lexend Deca', sans-serif;
-  font-size : 1rem;
-  color : hsla(0, 0%, 100%, 0.75)
+  color : hsla(0, 0%, 100%, 0.75);
+}
+
+.sr-only{
+  visibility: hidden;
 }
 
 .container{
   max-width : 90%;
-  margin : 3em auto;
+  margin : 5.5em auto;
 }
 
 img{
   max-width : 100%;
-  margin-block : 1em;
+  margin-bottom : 2em;
 }
 
 .section__title{
+  display: block;
   font-family : 'Big Shoulders Display', cursive;
-  font-size : 2.25rem;
-  margin-block : .5em;
+  font-size : 2.5rem;
   text-transform: uppercase;
 }
 
 .info{
   line-height: 1.7;
+  margin-block : 2em 1.75em;
 }
 
 .sedans{
@@ -48,16 +52,15 @@ img{
 }
 
 .spacing{
-  padding : 2em 3em;
+  padding : 3em;
 }
 
 .button{
   display : inline-block;
   text-decoration : none;
-  font-size : 1.125rem;
   background-color : #fff;
   border-radius : 3em;
-  padding : .5em 1.5em;
+  padding : 0.75em 1.75em;
   margin-block : 1.5em;
 }
 
@@ -85,8 +88,13 @@ img{
 
 @media (min-width : 850px){
 
+  body{
+    font-size : 0.9375rem;
+  }
+
   .container{
-    max-width : 80%;
+    max-width : 75%;
+    margin-inline : auto;
   }
 
   .flex{
@@ -94,12 +102,16 @@ img{
   }
 
   .spacing{
-    padding : 5em;
     flex-basis : calc(100%/3);
+    padding-bottom : unset;
   }
 
   .section__title{
-    margin-block : 1em;
+    margin-block : 2rem;
+  }
+
+  .info{
+    margin-block : unset;
   }
 
   .sedans{
@@ -111,13 +123,20 @@ img{
   }
 
   .button{
-    margin-block : 7em .5em;
+    margin-block : 86px 48px;
     padding : 1em 2.5em;
+    text-align : center;
   }
 
   .button:hover{
     background-color : inherit;
     color : #fff;
     border : 2px solid #fff;
+  }
+}
+
+@media(min-width : 1200px){
+  .container{
+    max-width : 64%;
   }
 }
