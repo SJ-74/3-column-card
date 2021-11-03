@@ -6,7 +6,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -25,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/SJ-74/3-column-card
-- Live Site URL: https://angry-edison-fed6a5.netlify.app/
+- Solution URL: [https://github.com/SJ-74/3-column-card]
+- Live Site URL: [https://frontmentor-3-column-preview-card.netlify.app]
 
 ## My process
 
@@ -43,9 +42,9 @@ This challenge was a good practice for checking out and practicing my basic HTML
 
 ### Continued development
 
-Honestly, I'd like to game up my CSS more and more for now.
+Honestly, I'd like to level up my CSS more and more for now.
 
 ## Author
 
-- Website - [SJ](https://github.com/SJ-74)
+- Website - [SJ](https://github.com/SJ-74/)
 - Frontend Mentor - [@SJ-74](https://www.frontendmentor.io/profile/SJ-74)
